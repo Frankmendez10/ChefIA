@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "arroz",
+    "content": "El arroz blanco normalmente requiere entre 15 y 20 minutos de cocción a fuego bajo después de comenzar a hervir, dependiendo del tipo de arroz."
+  },
+  {
+    "topic": "pasta",
+    "content": "La pasta seca normalmente requiere entre 8 y 12 minutos de cocción en agua hirviendo, aunque el tiempo exacto depende del tipo de pasta."
+  },
+  {
+    "topic": "pollo",
+    "content": "El pollo debe cocinarse completamente antes de consumirse. El tiempo depende del tamaño y método de cocción."
+  },
+  {
+    "topic": "verduras",
+    "content": "Las verduras pueden cocinarse mediante diferentes métodos como hervido, salteado, vapor u horno. El tiempo depende del tipo y tamaño."
+  },
+  {
+    "topic": "sal",
+    "content": "La cantidad de sal depende de la receta y las preferencias personales. Es recomendable agregarla gradualmente y ajustar al final."
+  },
+  {
+    "topic": "temperatura",
+    "content": "La temperatura y el tiempo de cocción dependen del alimento y del método utilizado. Para alimentos como pollo, es importante verificar que estén completamente cocidos."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ingredient": "pollo",
+    "category": "protein",
+    "description": "Carne de pollo utilizada en múltiples preparaciones.",
+    "common_uses": ["arroz con pollo", "ensaladas", "sopas"]
+  },
+  {
+    "ingredient": "arroz",
+    "category": "grain",
+    "description": "Cereal utilizado como acompañamiento o ingrediente principal.",
+    "common_uses": ["arroz con pollo", "arroz blanco", "sopas"]
+  },
+  {
+    "ingredient": "tomate",
+    "category": "vegetable",
+    "description": "Ingrediente utilizado para salsas, guisos y ensaladas.",
+    "common_uses": ["salsas", "guisos", "ensaladas"]
+  },
+  {
+    "ingredient": "cebolla",
+    "category": "vegetable",
+    "description": "Ingrediente aromático utilizado en numerosas preparaciones.",
+    "common_uses": ["guisos", "salsas", "sopas"]
+  },
+  {
+    "ingredient": "ajo",
+    "category": "seasoning",
+    "description": "Ingrediente aromático utilizado para aportar sabor.",
+    "common_uses": ["guisos", "salsas", "sopas"]
+  },
+  {
+    "ingredient": "huevo",
+    "category": "protein",
+    "description": "Ingrediente versátil utilizado en desayunos y diferentes preparaciones.",
+    "common_uses": ["huevos revueltos", "omelette", "repostería"]
+  },
+  {
+    "ingredient": "pasta",
+    "category": "grain",
+    "description": "Alimento elaborado principalmente a base de harina y agua.",
+    "common_uses": ["pasta con tomate", "sopas", "ensaladas"]
+  },
+  {
+    "ingredient": "leche",
+    "category": "dairy",
+    "description": "Producto lácteo utilizado en bebidas, salsas y preparaciones.",
+    "common_uses": ["salsas", "bebidas", "postres"]
+  }
+]

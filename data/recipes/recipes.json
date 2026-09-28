@@ -1,0 +1,173 @@
+[
+  {
+    "id": "recipe_001",
+    "name": "Arroz con pollo",
+    "ingredients": [
+      "pollo",
+      "arroz",
+      "cebolla",
+      "tomate",
+      "ajo",
+      "aceite",
+      "sal"
+    ],
+    "time_minutes": 35,
+    "difficulty": "easy",
+    "servings": 4,
+    "instructions": [
+      "Cortar el pollo en trozos pequeños.",
+      "Sofreír la cebolla, el tomate y el ajo.",
+      "Agregar el pollo y cocinar hasta que esté dorado.",
+      "Incorporar el arroz y mezclar.",
+      "Agregar agua y sal.",
+      "Cocinar a fuego medio hasta que el arroz esté listo."
+    ]
+  },
+  {
+    "id": "recipe_002",
+    "name": "Pasta con tomate",
+    "ingredients": [
+      "pasta",
+      "tomate",
+      "ajo",
+      "cebolla",
+      "aceite",
+      "sal"
+    ],
+    "time_minutes": 25,
+    "difficulty": "easy",
+    "servings": 2,
+    "instructions": [
+      "Cocinar la pasta en agua con sal.",
+      "Sofreír la cebolla y el ajo.",
+      "Agregar el tomate y cocinar durante unos minutos.",
+      "Mezclar la salsa con la pasta.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "id": "recipe_003",
+    "name": "Ensalada de pollo",
+    "ingredients": [
+      "pollo",
+      "lechuga",
+      "tomate",
+      "pepino",
+      "limón",
+      "aceite",
+      "sal"
+    ],
+    "time_minutes": 20,
+    "difficulty": "easy",
+    "servings": 2,
+    "instructions": [
+      "Cocinar el pollo y cortarlo en trozos.",
+      "Lavar y cortar la lechuga, el tomate y el pepino.",
+      "Mezclar todos los ingredientes.",
+      "Agregar limón, aceite y sal.",
+      "Servir inmediatamente."
+    ]
+  },
+  {
+    "id": "recipe_004",
+    "name": "Huevos revueltos con verduras",
+    "ingredients": [
+      "huevo",
+      "tomate",
+      "cebolla",
+      "pimiento",
+      "aceite",
+      "sal"
+    ],
+    "time_minutes": 15,
+    "difficulty": "easy",
+    "servings": 2,
+    "instructions": [
+      "Cortar las verduras en trozos pequeños.",
+      "Sofreír la cebolla y el pimiento.",
+      "Agregar el tomate.",
+      "Batir los huevos y añadirlos a la sartén.",
+      "Cocinar hasta que los huevos estén completamente hechos."
+    ]
+  },
+  {
+    "id": "recipe_005",
+    "name": "Sopa de verduras",
+    "ingredients": [
+      "zanahoria",
+      "papa",
+      "calabacita",
+      "tomate",
+      "cebolla",
+      "agua",
+      "sal"
+    ],
+    "time_minutes": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "instructions": [
+      "Lavar y cortar las verduras.",
+      "Sofreír la cebolla y el tomate.",
+      "Agregar la zanahoria, papa y calabacita.",
+      "Añadir agua y sal.",
+      "Cocinar hasta que las verduras estén suaves."
+    ]
+  },
+  {
+  "id": "recipe_006",
+  "name": "Omelette de verduras",
+  "ingredients": [
+    "huevo",
+    "tomate",
+    "cebolla",
+    "pimiento",
+    "aceite",
+    "sal"
+  ],
+  "time_minutes": 15,
+  "difficulty": "easy",
+  "servings": 2,
+  "meal": "desayuno",
+  "tags": [
+    "rápido",
+    "saludable",
+    "desayuno"
+  ],
+  "instructions": [
+    "Cortar las verduras en trozos pequeños.",
+    "Sofreír la cebolla y el pimiento.",
+    "Agregar el tomate.",
+    "Batir los huevos y añadirlos.",
+    "Cocinar hasta que el huevo esté completamente hecho."
+  ]
+},
+  {
+    "id": "recipe_007",
+    "name": "Ensalada de pollo rápida",
+    "ingredients": [
+      "pollo",
+      "lechuga",
+      "tomate",
+      "pepino",
+      "limón",
+      "aceite",
+      "sal"
+    ],
+    "time_minutes": 10,
+    "difficulty": "easy",
+    "servings": 2,
+    "meal": "cena",
+    "tags": [
+      "rápido",
+      "saludable",
+      "cena"
+    ],
+    "instructions": [
+      "Cocinar el pollo y cortarlo en trozos.",
+      "Lavar y cortar la lechuga, el tomate y el pepino.",
+      "Mezclar todos los ingredientes.",
+      "Agregar limón, aceite y sal.",
+      "Servir inmediatamente."
+    ]
+  }
+]

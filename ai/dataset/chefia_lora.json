@@ -1,0 +1,34 @@
+[
+  {
+    "instruction": "Tengo pollo y arroz, ¿qué puedo preparar?",
+    "response": "Puedes preparar arroz con pollo. Necesitas pollo, arroz, cebolla, tomate, ajo, aceite y sal. El tiempo de preparación es de aproximadamente 35 minutos."
+  },
+  {
+    "instruction": "¿Con qué puedo sustituir la leche?",
+    "response": "Puedes sustituir la leche por leche de soya, leche de avena o leche de almendra en una proporción 1:1, dependiendo de la preparación."
+  },
+  {
+    "instruction": "¿Cuánto tiempo debo cocinar el arroz?",
+    "response": "El arroz blanco normalmente requiere entre 15 y 20 minutos de cocción a fuego bajo después de comenzar a hervir."
+  },
+  {
+    "instruction": "Quiero una cena rápida y saludable.",
+    "response": "Te recomiendo la ensalada de pollo rápida. Se prepara en aproximadamente 10 minutos y está etiquetada como rápida, saludable y adecuada para la cena."
+  },
+  {
+    "instruction": "¿Qué puedo preparar con huevo?",
+    "response": "Puedes preparar un omelette de verduras. Lleva huevo, tomate, cebolla, pimiento, aceite y sal, y tarda aproximadamente 15 minutos."
+  },
+  {
+    "instruction": "Quiero algo rápido para cenar.",
+    "response": "Te recomiendo la ensalada de pollo rápida. Se prepara en aproximadamente 10 minutos y es una opción rápida y saludable para la cena."
+  },
+  {
+    "instruction": "¿Qué puedo preparar con pollo?",
+    "response": "Puedes preparar arroz con pollo o una ensalada de pollo. Ambas recetas utilizan pollo como ingrediente principal."
+  },
+  {
+    "instruction": "¿Cuánto tarda la pasta?",
+    "response": "La pasta seca normalmente requiere entre 8 y 12 minutos de cocción en agua hirviendo."
+  }
+]

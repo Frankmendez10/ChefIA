@@ -1,0 +1,52 @@
+[
+  {
+    "ingredient": "leche",
+    "substitutes": [
+      {
+        "ingredient": "leche de soya",
+        "ratio": "1:1",
+        "notes": "Adecuada para bebidas, salsas y repostería."
+      },
+      {
+        "ingredient": "leche de avena",
+        "ratio": "1:1",
+        "notes": "Adecuada para bebidas, salsas y algunas preparaciones de repostería."
+      },
+      {
+        "ingredient": "leche de almendra",
+        "ratio": "1:1",
+        "notes": "Puede utilizarse en bebidas y preparaciones dulces."
+      }
+    ]
+  },
+  {
+    "ingredient": "mantequilla",
+    "substitutes": [
+      {
+        "ingredient": "aceite vegetal",
+        "ratio": "3:4",
+        "notes": "Útil principalmente para cocinar y algunas preparaciones de repostería."
+      },
+      {
+        "ingredient": "margarina",
+        "ratio": "1:1",
+        "notes": "Puede sustituir a la mantequilla en muchas preparaciones."
+      }
+    ]
+  },
+  {
+    "ingredient": "huevo",
+    "substitutes": [
+      {
+        "ingredient": "puré de plátano",
+        "ratio": "1/4 taza por huevo",
+        "notes": "Adecuado principalmente para repostería."
+      },
+      {
+        "ingredient": "puré de manzana",
+        "ratio": "1/4 taza por huevo",
+        "notes": "Adecuado principalmente para repostería."
+      }
+    ]
+  }
+]
